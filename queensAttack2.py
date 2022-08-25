@@ -1,4 +1,4 @@
-
+## solution to hackerrank problem: https://www.hackerrank.com/challenges/queens-attack-2/problem
 
 def queensAttack(n, k, r_q, c_q, obstacles):
     # first we need to work out how many squares the queen could attack without obstacles
